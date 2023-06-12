@@ -1,3 +1,3 @@
 # resume-template
 
-![resume pic](assets/img/resume.png)
+![resume pic](assets/img/readme.png)
